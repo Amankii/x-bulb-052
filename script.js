@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn1.onclick = () => {
 
         img.src='./images/bulb0.png';
-        click.play()
+        click.play();
     };
     
 
